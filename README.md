@@ -2,3 +2,4 @@
 I am the best
 yes i am
 another
+Global
